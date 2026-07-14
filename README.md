@@ -2,8 +2,6 @@
 
 BudgetMate is a personal finance web application that helps users track their monthly expenses, set budgets, and visualize spending habits. Built using Django and Bootstrap, it offers a clean and intuitive interface for managing finances.
 
-![screenshot](https://via.placeholder.com/900x400?text=Add+Screenshot+Here)
-
 ---
 
 ## 🔧 Features
@@ -18,16 +16,6 @@ BudgetMate is a personal finance web application that helps users track their mo
 ✅ Export expenses to Excel (`.xlsx`)  
 ✅ Export budget history to CSV (`.csv`)  
 ✅ Bootstrap-based responsive UI
-
----
-
-## 🖼 Sample Screenshots
-
-> (You can add your own screenshots in `/static/screens/` and update these links)
-
-- ![Dashboard](static/screens/dashboard.png)
-- ![Add Expense](static/screens/add_expense.png)
-- ![Budget History](static/screens/budget_history.png)
 
 ---
 
